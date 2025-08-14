@@ -207,4 +207,4 @@ pnpm preview
 
 ## 📄 License
 
-MIT (change if needed).
+MIT.
